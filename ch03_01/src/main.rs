@@ -11,13 +11,15 @@ fn main() {
         ma_string.push_str("!!!");
         sleep(Duration::from_millis(500));
     });
-    let thread_2 = thread::spawn(move || {
-        ma_string.push_str("???");
-        sleep(Duration::from_millis(500));
-    });
+    // Error
+    // let thread_2 = thread::spawn(move || {
+    //     ma_string.push_str("???");
+    //     sleep(Duration::from_millis(500));
+    // });
 
     thread_1.join();
-    thread_2.join();
+    // thread_2.join();
 
-    println!("ma string {ma_string}");
+    // Error
+    // println!("ma string {ma_string}");
 }

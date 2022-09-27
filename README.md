@@ -1,39 +1,29 @@
-# Nom final de la formation
+# Découvrir Rust
 
-Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `Découvrir Rust`. Le cours entier est disponible sur [LinkedIn Learning](https://www.linkedin.com/learning/decouvrir-rust/bienvenue-dans-decouvrir-rust).
 
-![Nom final de la formation][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
+![Découvrir Rust](https://media-exp1.licdn.com/dms/image/C4E0DAQGBqRChbV4ddA/learning-public-crop_288_512/0/1663246294594?e=2147483647&v=beta&t=A7MWCs8fyuHirFdbZo1vb7bGGN0adclMynHc5AO1bMg)
 
-DESCRIPTION DE LA FORMATION
+Si vous avez besoin d'un langage de programmation performant et sécurisé, Rust est celui qu'il vous faut. Dans ce cours, prenez en main les bases essentielles de la théorie pour appréhender correctement ce langage et gérer les erreurs remontées par le compilateur. Benjamin Coenen, Software Engineer chez Apollo GraphQL, vous aide à mieux comprendre pourquoi votre programme ne veut pas compiler et à tester efficacement votre code. Ainsi, vous serez en mesure de livrer du code en production de qualité, et qui n'a pas de comportement indéfini à l'exécution.
 
 ## Instructions
 
-Ce dossier Repository a des branches pour chacune des vidéos du cours. Vous pouvez utiliser le menu des Branches sur GitHub afin d’accéder aux passages qui vous intéressent. Vous pouvez également rajouter `/tree/BRANCH_NAME` à l’URL afin d’accéder à la branche qui vous intéresse. 
-
-## Branches
-
-Les branches sont structurées de manière à correspondre aux vidéos du cours. La convention de nommage est : `CHAPITRE#_VIDEO#`. Par exemple, la branche nommée`02_03` correspond au second chapitre, et à la troisième vidéo de ce chapitre. Certaines branches ont un état de départ et de fin.  
-La branche `02_03_d` correspond au code du début de la vidéo.  
-La branche `02_03_f` correspond au code à la fin de la vidéo.  
-La branche master correspond au code à la fin de la formation. 
+Ce repository contient tous les chapitres du cours organisés par dossier `chXX_XX`.
 
 ## Installation
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
-   - [Liste des logiciels/dépendances utiles à la formation] 
+   - Cargo ([rustup install](https://rustup.rs/))
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-3. [Instructions spécifiques au cours] 
+3. Lancez `cargo check` pour vérifier que tout est correctement installé.
 
 
 ### Formateur
 
-**Nom du formateur** 
+**Benjamin Coenen** 
 
- Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
+Benjamin Coenen est ingénieur logiciel depuis 2015 dans différents domaines allant des compilateurs aux applications web. Motivé par la résolution de problèmes de performance dans ses développements, c'est assez naturellement qu'il s'est tourné vers le langage Rust pour disposer d'une maîtrise quasiment totale sur l'exécution et le comportement de son code.
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
-[lil-URL-trainer]: https://
+Considérant que la formation et le partage de ses connaissances font partie intégrante de son métier de développeur, il intervient depuis plusieurs années dans de nombreuses conférences, dispense des formations et contribue régulièrement à la communauté open source.
 
-[1]: # (End of FR-Instruction ###############################################################################################)
+ Retrouvez mes autres formations sur [LinkedIn Learning](https://www.linkedin.com/learning/instructors/benjamin-coenen).
