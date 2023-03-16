@@ -2,7 +2,7 @@
 
 Ce dossier Repository est lié au cours `Découvrir Rust`. Le cours entier est disponible sur [LinkedIn Learning](https://www.linkedin.com/learning/decouvrir-rust/bienvenue-dans-decouvrir-rust).
 
-![Découvrir Rust](https://media-exp1.licdn.com/dms/image/C4E0DAQGBqRChbV4ddA/learning-public-crop_288_512/0/1663246294594?e=2147483647&v=beta&t=A7MWCs8fyuHirFdbZo1vb7bGGN0adclMynHc5AO1bMg)
+![Découvrir Rust][lil-thumbnail-url] 
 
 Si vous avez besoin d'un langage de programmation performant et sécurisé, Rust est celui qu'il vous faut. Dans ce cours, prenez en main les bases essentielles de la théorie pour appréhender correctement ce langage et gérer les erreurs remontées par le compilateur. Benjamin Coenen, Software Engineer chez Apollo GraphQL, vous aide à mieux comprendre pourquoi votre programme ne veut pas compiler et à tester efficacement votre code. Ainsi, vous serez en mesure de livrer du code en production de qualité, et qui n'a pas de comportement indéfini à l'exécution.
 
@@ -26,4 +26,6 @@ Benjamin Coenen est ingénieur logiciel depuis 2015 dans différents domaines al
 
 Considérant que la formation et le partage de ses connaissances font partie intégrante de son métier de développeur, il intervient depuis plusieurs années dans de nombreuses conférences, dispense des formations et contribue régulièrement à la communauté open source.
 
- Retrouvez mes autres formations sur [LinkedIn Learning](https://www.linkedin.com/learning/instructors/benjamin-coenen).
+Retrouvez mes autres formations sur [LinkedIn Learning](https://www.linkedin.com/learning/instructors/benjamin-coenen).
+
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2482427/2482427-1663246272034-16x9.jpg
